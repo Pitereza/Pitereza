@@ -1,5 +1,12 @@
-## Hi there 👋
+Привет меня зовут @|"?#@$$#@!@#% я учусь програмировать и делать игры 
+(Вам больше нечего о себе сказать)
 
+Hello, my name is @|"?#@$$#@!@#% I'm learning to program and make games 
+(You have nothing more to say about yourself)
+(P.s And I'm a YouTuber (Piter_bro))
+
+<div>
+  <img src="https://imgur.com/a/Q2XrPZx"
 <!--
 **Pitereza/Pitereza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
