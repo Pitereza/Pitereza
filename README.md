@@ -6,7 +6,7 @@ Hello, my name is @|"?#@$$#@!@#% I'm learning to program and make games
 (P.s And I'm a YouTuber (Piter_bro))
 
 <div>
-  <img src="![5713db4e-7715-4f08-a723-925f926ca449](https://github.com/user-attachments/assets/7755a763-5467-43d5-82bb-fc8c7f2232e8)
+  <img src="11.png"
 ">
 <!--
 **Pitereza/Pitereza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
